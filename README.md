@@ -1,6 +1,6 @@
 
 # Curso de programación full stack 
-## MÓDULO 2 - Repositorio y WorkFlow </h2>
+## MÓDULO 2 - Repositorio y WorkFlow 
 *Silicon Misiones - https://siliconmisiones.gob.ar/*
 **Autor: Fernando Duarte**
 ***este repositorio fue creado con fines académicos. Contiene los ejercicios
